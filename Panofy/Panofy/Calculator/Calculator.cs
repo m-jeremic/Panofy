@@ -28,5 +28,15 @@ namespace UtilityKnife.Calculator
         {
             return x / y;
         }
+
+        public static double DivisionTest(double x, double y)
+        {
+            return x / y;
+        }
+
+        public double SquareRoot(double x)
+        {
+            return Math.Sqrt(x);
+        }
     }
 }
