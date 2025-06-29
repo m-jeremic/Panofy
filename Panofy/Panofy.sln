@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36212.18 d17.14
+VisualStudioVersion = 17.14.36212.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panofy", "Panofy\Panofy.csproj", "{491886BD-9CCF-4FF7-A956-8B48686CB0E6}"
 EndProject
@@ -20,6 +20,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {C4FBBFC0-69C5-4E2E-8D89-A55E88AB8CA1}
+=======
+		SolutionGuid = {AA505C25-E067-4C38-AA9B-602CFF71FA4A}
+>>>>>>> 5043b5973e355f3a2564e93b69e4079657ca536c
 	EndGlobalSection
 EndGlobal
